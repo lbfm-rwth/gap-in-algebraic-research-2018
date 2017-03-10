@@ -11,7 +11,7 @@ title: Home
 [GAP](http://www.gap-system.org/) Days are meetings where developers and users
 with GAP programming experience are invited to influence the future
 development of GAP. To streamline each meeting the organizers usually suggest a few
-main topics to work on during the week (see e.g. the links to previous GAP days below).
+main topics to work on during the week.
 
 The meetings are also suitable for advertising recent developments in core GAP
 and packages via short talks. However, the focus of the meeting is on code
