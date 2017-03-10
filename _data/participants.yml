@@ -3,41 +3,41 @@
   links:
   talk:
 
-- name: Reimer Behrends
-  affiliation: TU Kaiserslautern
-
-- name: Jan De Beule
-  affiliation: Ghent University
-
-- name: Martin Bies
-  affiliation: Institute for Theoretical Physics, Heidelberg
-
-- name: Sebastian Gutsche
-  affiliation: University of Siegen
-
-- name: Marcel Hark
-  affiliation: University of Siegen
-
-- name: Chris Jefferson
-  affiliation: University of St Andrews
-
+#- name: Reimer Behrends
+#  affiliation: TU Kaiserslautern
+#
+#- name: Jan De Beule
+#  affiliation: Ghent University
+#
+#- name: Martin Bies
+#  affiliation: Institute for Theoretical Physics, Heidelberg
+#
+#- name: Sebastian Gutsche
+#  affiliation: University of Siegen
+#
+#- name: Marcel Hark
+#  affiliation: University of Siegen
+#
+#- name: Chris Jefferson
+#  affiliation: University of St Andrews
+#
 - name: Max Horn
   affiliation: JLU Gießen
 
-- name: Alexander Konovalov
-  affiliation: University of St Andrews
-
-- name: Steve Linton
-  affiliation: University of St Andrews
-
-- name: James Mitchell
-  affiliation: University of St Andrews
-
-- name: Markus Pfeiffer
-  affiliation: University of St Andrews
-
-- name: Sebastian Posur
-  affiliation: University of Siegen
-
-- name: Kamal Saleh
-  affiliation: University of Siegen
+#- name: Alexander Konovalov
+#  affiliation: University of St Andrews
+#
+#- name: Steve Linton
+#  affiliation: University of St Andrews
+#
+#- name: James Mitchell
+#  affiliation: University of St Andrews
+#
+#- name: Markus Pfeiffer
+#  affiliation: University of St Andrews
+#
+#- name: Sebastian Posur
+#  affiliation: University of Siegen
+#
+#- name: Kamal Saleh
+#  affiliation: University of Siegen
