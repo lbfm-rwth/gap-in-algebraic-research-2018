@@ -46,3 +46,4 @@ This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/)
 1.  <a href="http://gapdays2014.coxeter.de/">First GAP Days</a>
 2.  <a href="/gapdays2015-spring/">Second GAP Days</a>
 3.  <a href="/gapdays2015-fall/">Third GAP Days</a>
+4.  <a href="http://gapdays.de/gap-sage-days2016/">First Joint GAP-SageMath Days</a>
