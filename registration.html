@@ -2,8 +2,8 @@
 layout: page
 title: Registration
 registration_state: open
-form_api_token: 19135be0cf2b871b48e7edb637e568c3
-email: gap-sage-days2016@gapdays.de
+form_api_token: 7cf8d4aaaffb2f66929755918473dbf7
+email: gapdays2017-fall@gapdays.de
 ---
 
 {% case page.registration_state %}
@@ -17,7 +17,7 @@ email: gap-sage-days2016@gapdays.de
 <p class="message">Registration is open.</p>
 
 <p>
-You can use this form to register for the First GAP-SageMath Days.
+You can use this form to register for the {{ site.title }}.
 </p>
 
 <p>
@@ -38,13 +38,6 @@ regarding registration or the even in general, feel free to
       document.getElementById("q").focus();
     }
   </script>
-</div>
-
-<div class="form-field">
-  <div class="form-field-title">
-    <label for="Gender">Gender <span class="form-field-req">*</span></label>
-  </div>
-  <input type="text" size="60" maxlength="80" name="Gender" required />
 </div>
 
 <div class="form-field">
@@ -72,17 +65,12 @@ regarding registration or the even in general, feel free to
     Please select the day of arrival.
   </div>
   <select name="arrival.date" id="arrival_date" required>
-    <option value="Tuesday 12th or before">Tuesday 12th or before</option>
-    <option value="Wednesday 13th">Wednesday 13th</option>
-    <option value="Thursday 14th">Thursday 14th</option>
-    <option value="Friday 15th">Friday 15th</option>
-    <option value="Saturday 16th">Saturday 16th</option>
-    <option value="Sunday 17th" selected="selected">Sunday 17th</option>
-    <option value="Monday 18th">Monday 18th</option>
-    <option value="Tuesday 19th">Tuesday 19th</option>
-    <option value="Wednesday 20th">Wednesday 20th</option>
-    <option value="Thursday 21st">Thursday 21st</option>
-    <option value="Friday 22nd">Friday 22nd</option>
+    <option value="Sunday 3 Sep" selected="selected">Sunday 3 Sep or before</option>
+    <option value="Monday 4 Sep">Monday 4 Sep</option>
+    <option value="Tuesday 5 Sep">Tuesday 5 Sep</option>
+    <option value="Wednesday 6 Sep">Wednesday 6 Sep</option>
+    <option value="Thursday 7 Sep">Thursday 7 Sep</option>
+    <option value="Friday 8 Sep">Friday 8 Sep</option>
   </select>
 </div>
 
@@ -94,69 +82,36 @@ regarding registration or the even in general, feel free to
     Please select the day of departure.
   </div>
   <select name="departure.date" id="departure_date" required>
-    <option value="Wednesday 13th">Wednesday 13th</option>
-    <option value="Thursday 14th">Thursday 14th</option>
-    <option value="Friday 15th">Friday 15th</option>
-    <option value="Saturday 16th">Saturday 16th</option>
-    <option value="Sunday 17th">Sunday 17th</option>
-    <option value="Monday 18th">Monday 18th</option>
-    <option value="Tuesday 19th">Tuesday 19th</option>
-    <option value="Wednesday 20th">Wednesday 20th</option>
-    <option value="Thursday 21st">Thursday 21st</option>
-    <option value="Friday 22nd" selected="selected">Friday 22nd</option>
-    <option value="Saturday 23rd">Saturday 23rd</option>
-    <option value="Sunday 24th">Sunday 24th</option>
-    <option value="Monday 25th or later">Monday 25th or later</option>
+    <option value="Monday 4 Sep">Monday 4 Sep</option>
+    <option value="Tuesday 5 Sep">Tuesday 5 Sep</option>
+    <option value="Wednesday 6 Sep">Wednesday 6 Sep</option>
+    <option value="Thursday 7 Sep">Thursday 7 Sep</option>
+    <option value="Friday 8 Sep" selected="selected">Friday 8 Sep</option>
+    <option value="Saturday 9 Sep">Saturday 9 Sep or later</option>
   </select>
 </div>
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="funding">Accommodation/Funding?</label>
+    <label for="accommodation">Accommodation</label>
   </div>
   <div class="form-field-description">
-    <strong>Accommodation:</strong> 
-    One of the options is to try the brand new 
-    <a href="http://www.premierinn.com/en/hotel/STALAR/st-andrews">St Andrews Premier Inn Hotel</a>
-    just opened in September 2015. At the moment it offers rooms from £39 per night in Premier Saver 
-    tariff (Pre-pay, no amends or refunds) and from £55 per night in Premier Flexible tariff 
-    (Amend up to 1pm on arrival days). This hotel is located in the southern part of St Andrews 
-    and is in 25 minutes walk from the School of Computer Science. If you would like to stay there, 
-    please make your own arrangements for the booking.
-    <br>
-    Alternatively, you may ask the organisers to find a place in some B&amp;B. Prices may vary between 
-    different B&amp;B. For example, we have offers for single rooms with shared downstairs shower 
-    facilities at £35 per night; single en suite at £45 per night; double/twin room at £85 per 
-    night (£65 per night for single occupancy). If you would like the organisers to book a B&amp;B 
-    for you, please specify your preferences during registration.
-    <br>
-    <br>
-
-    <strong>Funding:</strong>
-    We have some limited funding available to cover travel and hotel
-    expenses, primarily intended for young researchers having no access 
-    to travel funding of their own and offering essential contributions 
-    to the agenda of the meeting. We limit our support for the accommodation 
-    to the GAP-SageMath Days (January 18th-22nd). 
-
-    If you need support in order to attend the workshop, please
-    enter an estimate of your expected travel expenses in the input
-    box below and register <strong>before the 1st of December</strong>.
-    We will consider your request, though we can not promise in advance
-    that we will be able to meet the requested amount in full.
-    </div>
-  <input type="text" size="60" maxlength="180" name="funding" />
+    You will have to book your accommodation yourself.
+    We recommend the <a href=http://www.johanneshoehe.de/">Hotel Johanneshöhe</a>.
+    We will try to organize a reduced rate there.
+  </div>
+<!-- 
+  <input type="text" size="60" maxlength="180" name="accommodation" />
+ -->
 </div>
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="presentation">Wishes?</label>
+    <label for="presentation">Comments</label>
   </div>
   <div class="form-field-description">
-    Here you can enter <strong>(i)</strong> your requests for
-    acccommodation, <strong>(ii)</strong> further details concerning
-    support, <strong>(iii)</strong> any comments, questions or wishes
-    regarding the school.  
+    Here you any comments, questions or wishes
+    regarding the workshop.  
   </div>
   <textarea name="comments" rows="10" cols="60"></textarea>
 </div>
