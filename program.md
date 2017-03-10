@@ -10,13 +10,7 @@ title: Program
 * Start: Wednesday August 30th <!-- TODO: insert start time -->
 * Finish: Friday September 1st <!-- TODO: insert end time -->
 
-The focus of the workshop will be on presenting research and development related to GAP. Topics may include (but will not be limited to):
- 
-* TBA
-
-
-If you have any suggestions for the program, please let the organisers know. 
-
+The focus of the workshop will be on presenting research and development related to GAP. Please submit your proposal (e.g., topics you want to see covered, title of your talk) to the organisers <gapdays2017-fall@gapdays.de>.
 
 ## Code sprint
 * Start: Monday September 4th <!-- TODO: insert start time -->
