@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'GAP Days 2017, Fall'
+title:            'GAP Days Fall 2017'
 tagline:          'A GAP workshop'
 description:      'Workshop: Aug 30--Sep 1<br> Code sprint: Sep 4--8'
 location:         'University of Siegen'
@@ -14,5 +14,5 @@ url:              http://gapdays.de
 baseurl:          /gapdays2017-fall
 
 
-exclude: [ "program.aux", "program.log", "program.out", "program.tex", "misc" ]
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
 include: [ "program.pdf" ]
