@@ -8,7 +8,8 @@ permalink:        pretty
 # Setup
 title:            'GAP Days 2017, Fall'
 #tagline:          'A GAP school'
-description:      'September 2017'
+#description:      'School: Sep 14-18, 2015<br> Code sprint: Sep 19-23, 2015'
+description:      'Code sprint: Sep 4-8, 2017'
 location:         'Uni Siegen'
 url:              http://gapdays.de
 baseurl:          /gapdays2017-fall
