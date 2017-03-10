@@ -4,6 +4,7 @@ title: Home
 ---
 
 # {{ site.title }}
+
 ## {{ site.description }}<br> {{ site.location }}
 
 ## GAP in general
