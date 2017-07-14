@@ -12,17 +12,20 @@
 # - name: Martin Bies
 #   affiliation: Institute for Theoretical Physics, Heidelberg
 
-# - name: Sebastian Gutsche
-#   affiliation: University of Siegen
+- name: Pedro A. García-Sánchez
+  affiliation: Universidad de Granada, IEMath-GR
+
+- name: Sebastian Gutsche
+  affiliation: University of Siegen
 
 # - name: Marcel Hark
 #   affiliation: University of Siegen
 
-# - name: Chris Jefferson
-#   affiliation: University of St Andrews
-
 - name: Max Horn
   affiliation: JLU Gießen
+
+# - name: Chris Jefferson
+#   affiliation: University of St Andrews
 
 # - name: Alexander Konovalov
 #   affiliation: University of St Andrews
@@ -30,14 +33,14 @@
 # - name: Steve Linton
 #   affiliation: University of St Andrews
 
-# - name: James Mitchell
-#   affiliation: University of St Andrews
+- name: James Mitchell
+  affiliation: University of St Andrews
 
 - name: Markus Pfeiffer
   affiliation: University of St Andrews
 
-# - name: Sebastian Posur
-#   affiliation: University of Siegen
+- name: Sebastian Posur
+  affiliation: University of Siegen
 
 # - name: Kamal Saleh
 #   affiliation: University of Siegen
