@@ -16,10 +16,14 @@ The focus of the workshop will be on presenting research and development related
 
 The focus of the code sprint will be on the following topics:
 
-* _GAP - HPC-GAP integration_ (improving HPC-GAP, making a proper HPC-GAP release)
-* _Towards GAP 4.9_ (what needs to be done before we release? what are the major/minor changes? prepare the release, which for the first time will include HPC-GAP!)
-* _Data structures in GAP_ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
-* _GAP - Julia integration_ (continue work from [Oscar GAP Kickoff Coding Sprint (restricted access)](https://github.com/oscar-system/OSCAR/wiki/Oscar-GAP-Kickoff-Coding-Sprint))
+1. __GAP - HPC-GAP integration__ (see also [the HPC-GAP TODO wiki page](https://github.com/gap-system/gap/wiki/HPC-GAP-TODO))
+2. __Towards GAP 4.9__
+  - work on a release check list (see [this issue](https://github.com/gap-system/gap/issues/1477))
+  - determine what needs to be done before we can release (which issues need to be resolved, which PR be merged, ...?)
+  - prepare a list of major/minor changes since GAP 4.8; including the integration of HPC-GAP
+  - if possible, prepare the actual release
+3. __Data structures in GAP__ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
+4. If there is interest, also __GAP - Julia integration__ (continue work from [Oscar GAP Kickoff Coding Sprint (restricted access)](https://github.com/oscar-system/OSCAR/wiki/Oscar-GAP-Kickoff-Coding-Sprint))
 
 If you have any suggestions for the code sprint, please let the organisers know or [create an issue on GitHub](https://github.com/gap-system/gap/issues) using the label "gapdays2017-fall".
 
