@@ -16,9 +16,9 @@ The focus of the workshop will be on presenting research and development related
 
 The focus of the code sprint will be on the following topics:
 
-* _Data structures in GAP_ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
 * _GAP - HPC-GAP integration_ (improving HPC-GAP, making a proper HPC-GAP release)
 * _Towards GAP 4.9_ (what needs to be done before we release? what are the major/minor changes? prepare the release, which for the first time will include HPC-GAP!)
+* _Data structures in GAP_ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
 * _GAP - Julia integration_ (continue work from [Oscar GAP Kickoff Coding Sprint (restricted access)](https://github.com/oscar-system/OSCAR/wiki/Oscar-GAP-Kickoff-Coding-Sprint))
 
 If you have any suggestions for the code sprint, please let the organisers know or [create an issue on GitHub](https://github.com/gap-system/gap/issues) using the label "gapdays2017-fall".
