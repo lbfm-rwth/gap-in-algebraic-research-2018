@@ -20,11 +20,11 @@ The primary focus of the code sprint will be on the following topics:
   - see the [the HPC-GAP TODO wiki page](https://github.com/gap-system/gap/wiki/HPC-GAP-TODO) for specifics
 2. __Towards GAP 4.9__
   - work on a release check list (see [this issue](https://github.com/gap-system/gap/issues/1477))
-  - determine what needs to be done before we can release (which issues need to be resolved, which PR be merged, ...?)
-  - prepare a list of major/minor changes since GAP 4.8; including the integration of HPC-GAP
+  - fix open issues, merged PRs, ...
+  - prepare a list of major/minor changes since GAP 4.8
   - if possible, prepare the actual release
 
-Some ideas for secondary topics (while we want to focus on primary subjects, people not interested in these can still attend, and work on a secondary subject from this list or based on their own interests):
+Some ideas for secondary topics (may or may not be worked on):
 
 3. __Data structures in GAP__ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
 4. __MatrixObj__ (continue work from the [previous GAP Days](http://gapdays.de/gapdays2017-spring/10_topic/))
