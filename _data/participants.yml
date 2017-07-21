@@ -33,6 +33,9 @@
 # - name: Steve Linton
 #   affiliation: University of St Andrews
 
+- name: Frank Lübeck
+  affiliation: RWTH Aachen
+
 - name: James Mitchell
   affiliation: University of St Andrews
 
@@ -42,5 +45,5 @@
 - name: Sebastian Posur
   affiliation: University of Siegen
 
-# - name: Kamal Saleh
-#   affiliation: University of Siegen
+- name: Wilf Wilson
+  affiliation: University of St Andrews
