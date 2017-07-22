@@ -1,16 +1,8 @@
 - name: Mohamed Barakat
   affiliation: University of Siegen
-  links:
-  talk:
 
-# - name: Reimer Behrends
-#   affiliation: TU Kaiserslautern
-
-# - name: Jan De Beule
-#   affiliation: Ghent University
-
-# - name: Martin Bies
-#   affiliation: Institute for Theoretical Physics, Heidelberg
+- name: Manuel Delgado
+  affiliation: University of Porto, Centre for Mathematics -- CMUP
 
 - name: Pedro A. García-Sánchez
   affiliation: Universidad de Granada, IEMath-GR
@@ -18,20 +10,8 @@
 - name: Sebastian Gutsche
   affiliation: University of Siegen
 
-# - name: Marcel Hark
-#   affiliation: University of Siegen
-
 - name: Max Horn
   affiliation: JLU Gießen
-
-# - name: Chris Jefferson
-#   affiliation: University of St Andrews
-
-# - name: Alexander Konovalov
-#   affiliation: University of St Andrews
-
-# - name: Steve Linton
-#   affiliation: University of St Andrews
 
 - name: Frank Lübeck
   affiliation: RWTH Aachen
