@@ -1,8 +1,11 @@
 - name: Mohamed Barakat
   affiliation: University of Siegen
 
+- name: Markus Baumeister
+  affiliation: RWTH Aachen University
+
 - name: Thomas Breuer
-  affiliation: RWTH Aachen
+  affiliation: RWTH Aachen University
 
 - name: Manuel Delgado
   affiliation: University of Porto, Centre for Mathematics -- CMUP
@@ -16,11 +19,14 @@
 - name: Max Horn
   affiliation: JLU Gießen
 
+- name: Christopher Jefferson
+  affiliation: University of St Andrews
+
 - name: Lukas Kühne
   affiliation: University Bonn
 
 - name: Frank Lübeck
-  affiliation: RWTH Aachen
+  affiliation: RWTH Aachen University
 
 - name: James Mitchell
   affiliation: University of St Andrews
@@ -30,6 +36,12 @@
 
 - name: Sebastian Posur
   affiliation: University of Siegen
+
+- name: Sergio Siccha
+  affiliation: RWTH Aachen University
+
+- name: Andreas Steenpaß
+  affiliation: TU Kaiserslautern
 
 - name: Wilf Wilson
   affiliation: University of St Andrews
