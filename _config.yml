@@ -15,4 +15,4 @@ baseurl:          /gapdays2017-fall
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
-include: [ "program.pdf" ]
+include: [ "SimplicialSurfaces.pdf" ]

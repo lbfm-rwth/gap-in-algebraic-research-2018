@@ -8,7 +8,60 @@ title: Program
 * Start: Wednesday August 30th at 10 am
 * Finish: Friday September 1st afternoon
 
+- Wednesday:
+  - 10:00 - 10:15: *Opening*
+  - 10:15 - 11:00:
+                   Pedro A. García-Sánchez and Manuel Delgado <br>
+                   [*The GAP package* numericalsgps](/gapdays2017-fall/abstracts/numericalsgps)
+  - 11:00 - 12:00:
+                    Markus Baumeister <br>
+                   [*Simplicial surfaces in GAP*](/gapdays2017-fall/SimplicialSurfaces.pdf)
+
+  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  
+  - 14:00 - 15:00:
+                   Markus Pfeiffer <br>
+                   *Proving finitely presented groups to be hyperbolic in polynomial time*
+  - 15:00 - 15:30: *Tee, coffee, and cake*
+  - 15:30 - 16:30:
+                   Chris Jefferson <br>
+                   *Towards a unified framework for search in permutation group*
+
+- Thursday:
+  - 10:00 - 11:00:
+                   Sebastian Gutsche <br>
+                   [*Constructive Category Theory and Applications to Algebraic Geometry*](/gapdays2017-fall/abstracts/CAP)
+  - 11:00 - 12:00:
+                    Markus Pfeiffer <br>
+                   *Update on all things Jupyter, LibGAP, Racket-GAP*
+
+  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  
+  - 14:00 - 15:00:
+                   N.N. <br>
+                   *ArangoDB*
+  - 15:00 - 15:30: *Tee, coffee, and cake*
+  - 15:30 - 16:30:
+                    Lukas Kühne <br>
+                   *Generating matroids using HPC-GAP and ArangoDB*
+
+- Friday:
+  - 10:00 - 11:00:
+                   Chris Jefferson <br>
+                   *Hooking the interpreter in GAP - profiling and debugging*
+  - 11:00 - 12:00:
+                   Max Horn <br>
+                   *MatrixObj-Projekt*
+
+  - 12:00 - 13:00: *Lunch (in-house Mensa)*
+  
+  - 14:00 - 15:00:
+  - 15:00 - 15:30: *Tee, coffee, and cake*
+  - 15:30 - 16:30:
+
+<!--
 The focus of the workshop will be on presenting research and development related to GAP. __Please submit proposals__ (e.g., topics you want to see covered, or title of a talk you could give) to the organisers (<gapdays2017-fall@gapdays.de>).
+-->
 
 ## Code sprint
 * Start: Monday September 4th at 10 am
