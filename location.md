@@ -5,7 +5,15 @@ title: Location
 
 The third GAP days will take place in
 [Siegen](http://www.siegen.de/) at the
-[Department of Mathematics](http://www.mathematik.uni-siegen.de/). Please look [here](http://www.uni-siegen.de/fb6/fb6/anfahrt/index.html.en?lang=en) for directions.
+[Department of Mathematics](http://www.mathematik.uni-siegen.de/).
+
+<h4>Address</h4>
+Emmy Noether Campus, <br>
+Walter-Flex-Str. 3, <br>
+Room D-201.
+
+
+Please look [here](http://www.uni-siegen.de/fb6/fb6/anfahrt/index.html.en?lang=en) for directions.
 
 <h3>Accommodation</h3>
 
