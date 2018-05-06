@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'GAP Days Fall 2017'
+title:            'GAP in Algebraic Research'
 tagline:          'A GAP workshop'
-description:      'Workshop: Aug 30 - Sep 1<br> Code sprint: Sep 4-8'
-location:         'University of Siegen'
-url:              http://gapdays.de
-baseurl:          /gapdays2017-fall
+description:      'Workshop: Sep 17 - 19'
+location:         'RWTH Aachen'
+url:              https://github.com
+baseurl:          /lbfm-rwth/2018-09-17-workshop
 
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]

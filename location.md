@@ -3,24 +3,24 @@ layout: page
 title: Location
 ---
 
-The third GAP days will take place in
-[Siegen](http://www.siegen.de/) at the
-[Department of Mathematics](http://www.mathematik.uni-siegen.de/).
+The GAP workshop will take place in
+[Aachen](http://www.aachen.de/) at the
+FIXME
 
 <h4>Address</h4>
-Emmy Noether Campus, <br>
-Walter-Flex-Str. 3, <br>
-Room D-201.
+FIXME, <br>
+Pontdriesch 14-16, <br>
+Room FIXME.
 
 
-Please look [here](http://www.uni-siegen.de/fb6/fb6/anfahrt/index.html.en?lang=en) for directions.
+Please look FIXME for directions.
 
 <h3>Accommodation</h3>
 
+FIXME
 We recommend <a href="http://www.cityhotel-siegen.de">Cityhotel Siegen</a>.
 For the participants of the workshop/code sprint we managed to
 get 15 rooms at the reduced rate of 71 Euros/night.
 The offer is valid until the end of July or until all 15 rooms are booked.
 You will have to book your accommodation yourself. Please
 mention <Q>Gap Days 2017</Q> to get the reduced rate.
-

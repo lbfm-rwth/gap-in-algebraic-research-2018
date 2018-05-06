@@ -7,21 +7,10 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-## GAP in general
+## WORKSHOP ANNOUNCEMENT
 
-[GAP](http://www.gap-system.org/) Days are meetings where developers and users
-with GAP programming experience are invited to influence the future
-development of GAP. To streamline each meeting the organizers usually suggest a few
-main topics to work on during the week.
+WORKSHOP ANNOUNCEMENT
 
-The meetings are also suitable for advertising recent developments in core GAP
-and packages via short talks. However, the focus of the meeting is on code
-development, with talks only playing a minor role.
-As enough GAP experts will be around for technical support, the
-meetings offer good opportunities for people to work on their own
-packages. At the end of the week, we would be happy to hear about any progress you made.
-
-## {{ site.title }}
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
@@ -35,13 +24,9 @@ can be found on [the location page]({{ site.baseurl }}/location).
 
 If you have questions or suggestions, please contact the organizers:
 
-* [Mohamed Barakat](mailto:mohamed.barakat@uni-siegen.de)
-* [Max Horn](mailto:max.horn@math.uni-giessen.de)
+* [Christoph Sch&ouml;nnenbeck](mailto:christoph.schoennenbeck@rwth-aachen.de)
+* [Sergio Siccha](mailto:sergio.siccha@rwth-aachen.de)
 
 ## Sponsors
 
-This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/) -- Symbolic Tools in Mathematics and their Application.
-
-## Previous GAP Days
-
-Please visit <http://gapdays.de/> for a list of all GAP days.
+This workshop is supported by FIXME
