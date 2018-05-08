@@ -7,20 +7,17 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-## WORKSHOP ANNOUNCEMENT
-
-WORKSHOP ANNOUNCEMENT
-
+FIXME ANNOUNCEMENT TEXT
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
-## Registering and stay
+## Location
 
 The workshop will take place at the {{ site.location }}. Information about the
 exact location and accommodation options
 can be found on [the location page]({{ site.baseurl }}/location).
 
-## <a name="contact"></a> Contact
+## Contact
 
 If you have questions or suggestions, please contact the organizers:
 
@@ -29,4 +26,4 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Sponsors
 
-This workshop is supported by FIXME
+This workshop is supported by [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/).
