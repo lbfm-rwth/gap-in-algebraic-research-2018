@@ -7,7 +7,23 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-FIXME ANNOUNCEMENT TEXT
+This fundamental and hands-on workshop will enable participants to use GAP in their day-to-day research: One of the key aspects of mathematical research has always been the study of examples to verify, sharpen, or contradict working hypotheses.
+In particular when these examples become too time consuming or error-prone for hand computation a computer algebra system such as GAP comes in handy.
+Taking it one step further, GAP is also a great platform in which to implement your own specialised algorithms:
+It is excellent at integrating them with existing methods, always choosing the "best" available algorithm.
+
+The workshop is aimed at mathematicians who are interested in incorporating GAP into their research and does not require any prior computational experience.
+Lessons will be live-coding, and the instructors will ensure a friendly working environment.
+
+We will teach the basics of working with GAP as well as more advanced topics. These include debugging, profiling, and automated testing.
+One session is reserved to explore topics of special interest to participants.
+Apart from the GAP lessons we will cover how to use the terminal and how to use Git to control versions of your code.
+
+In addition to the coding sessions we encourage participants to give short presentations on their research, emphasising possible computational problems.
+We will discuss whether and how one can attack these with GAP and which pitfalls to look out for.
+
+The workshop will take place in Aachen, September 17 - 19.
+For further information and registration visit FIXME HOMEPAGE.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
