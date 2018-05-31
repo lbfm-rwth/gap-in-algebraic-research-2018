@@ -13,7 +13,7 @@ In particular when these examples become too time consuming or error-prone for h
 Taking it one step further, GAP is also a great platform in which to implement your own specialised algorithms:
 It is excellent at integrating them with existing methods, always choosing the "best" available algorithm.
 
-The workshop is aimed at mathematicians who are interested in incorporating GAP into their research and does not require any prior computational experience.
+The workshop is aimed at mathematicians who are interested in incorporating GAP into their research and **does not require any prior computational experience**.
 Lessons will be live-coding, and the instructors will ensure a friendly working environment.
 
 We will teach the basics of working with GAP as well as more advanced topics. These include debugging, profiling, and automated testing.
