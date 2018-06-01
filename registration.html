@@ -59,6 +59,20 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
+    <label for="experience">Programming Experience<span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select your level of programming experience.
+  </div>
+  <select name="programming.experience" id="programming_experience" required>
+    <option value="none" selected="selected">No previous experience</option>
+    <option value="basic">Basic programming experience</option>
+    <option value="confident">I'm confident writing small programs for my personal use</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
     <label for="arrival_date">Arrival date <span class="form-field-req">*</span></label> 
   </div>
   <div class="form-field-description">
@@ -115,7 +129,6 @@ regarding registration or in general, feel free to
     Talks should be 15 minutes long.
     Make sure that you also describe the computational goals you have or problems
     you encountered in your research.
-    You can always also send us an email at a later date.
   </div>
   <textarea name="presentation" rows="10" cols="60"></textarea>
 </div>
