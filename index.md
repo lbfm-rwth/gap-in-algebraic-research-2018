@@ -24,7 +24,7 @@ In addition to the coding sessions we encourage participants to give short prese
 We will discuss whether and how one can attack these with GAP and which pitfalls to look out for.
 
 The workshop will take place in Aachen, September 17 - 19.
-If you wish, you can stay an extra day to work on your own code with our support.
+You can also stay September 20 to apply what you have learned and work on your own code with our support.
 To register for the workshop visit [the registration page]({{ site.baseurl }}/registration).
 
 More detailed information will be announced on [the program page]({{ site.baseurl }}/program).
