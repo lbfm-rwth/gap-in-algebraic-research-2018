@@ -8,6 +8,7 @@ title: Home
 ## {{ site.description }}<br> {{ site.location }}
 
 <br>
+FIXME: Ask people to send us what they work on, whether there are specific parts of GAP they would like to learn more about.
 This fundamental and hands-on workshop will enable participants to use GAP in their day-to-day research: One of the key aspects of mathematical research has always been the study of examples to verify, sharpen, or contradict working hypotheses.
 In particular when these examples become too time consuming or error-prone for manual computation a computer algebra system such as GAP comes in handy.
 Taking it one step further, GAP is also a great platform in which to implement your own specialised algorithms:
