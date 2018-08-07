@@ -5,17 +5,10 @@ title: Program
 
 
 ## Workshop
-- Start: Monday September 17 at 10:00
-- Finish: Wednesday September 19, 18:00
+- Start: Monday November 19, 10:00
+- Finish: Thursday November 22, 14:00
 
-If you wish, you can stay an extra day to work on your own code with our support.
-<br>
-A detailed schedule will be announced shortly before the workshop.
-
-## Topics covered by lessons
-- Programming with GAP
-- The Unix Shell
-- Version Control with Git
+A detailed schedule will be announced shortly before the summer school.
 
 <!--
 FIXME: also list session by thomas

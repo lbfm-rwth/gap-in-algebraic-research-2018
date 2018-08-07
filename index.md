@@ -5,44 +5,47 @@ title: Home
 
 # {{ site.title }}
 
-## {{ site.description }}<br> {{ site.location }}
+## {{ site.description }}, 2018<br> {{ site.location }}
 
 <br>
-FIXME: Ask people to send us what they work on, whether there are specific parts of GAP they would like to learn more about.
-This fundamental and hands-on workshop will enable participants to use GAP in their day-to-day research: One of the key aspects of mathematical research has always been the study of examples to verify, sharpen, or contradict working hypotheses.
-In particular when these examples become too time consuming or error-prone for manual computation a computer algebra system such as GAP comes in handy.
-Taking it one step further, GAP is also a great platform in which to implement your own specialised algorithms:
-It is excellent at integrating them with existing methods, always choosing the "best" available algorithm.
+The aim of this "summer" school is to give an overview over the research software available in GAP.
+The speakers will  present  their areas  of research,  the functionality  that is  available to
+investigate these areas   computationally,  and   guide   participants  to   familiarize themselves
+with  these tools  during the accompanying  programming lab sessions.
+We aim to do 2 hours of programming lab session for each 1.5 hours of lecture time.
+No prior computational experience is needed.
+Alexander Konovalov will give a GAP tutorial at the beginning of the summer school.
 
-The workshop is aimed at mathematicians who are interested in incorporating GAP into their research and **does not require any prior computational experience**.
-Lessons will be live-coding, and the instructors will ensure a friendly working environment.
 
-We will teach the basics of working with GAP as well as more advanced topics. These include debugging, profiling, and automated testing.
-One session is reserved to explore topics of special interest to participants.
-Apart from the GAP lessons we will cover how to use the terminal and how to use Git to control versions of your code.
+The speakers are:
+- Jan de Beule (Brussels), "Finite Geometry in GAP"
+- Alexander Hulpke (Fort Collins), "Group Homomorphisms in GAP:
+  Connecting and (De)composing Groups"
+- Alexander Konovalov (St. Andrews), "Programming with GAP (A GAP Tutorial)"
+- Sebastian Posur (Siegen), "The CAP Project: Category Theory in Computer Algebra"
+- Madeleine Whybrow (Kaiserslautern), TBA
+- Wilf Wilson (Halle), TBA
 
-In addition to the coding sessions we encourage participants to give short presentations on their research, emphasising possible computational problems.
-We will discuss whether and how one can attack these with GAP and which pitfalls to look out for.
 
-The workshop will take place in Aachen, September 17 - 19.
-Additionally, participants are welcome to stay on September 20 to work on their own code with our support.
 To register for the workshop visit [the registration page]({{ site.baseurl }}/registration).
+Funding is available to pay for your accomodation. You may be asked to share a room with
+another participant.
+Note that you will have to cover for **your travel expenses yourselves**.
 
 More detailed information will be announced on [the program page]({{ site.baseurl }}/program).
 
 ## Location
 
 The workshop will take place at the {{ site.location }}. Information about the
-exact location and accommodation options
-can be found on [the location page]({{ site.baseurl }}/location).
+exact location and accommodation will be announced on [the location page]({{ site.baseurl }}/location).
 
 ## Contact
 
-If you have questions or suggestions, please contact the organizers:
+If you have questions or suggestions, please contact the organizer:
 
-* [Sergio Siccha](mailto:sergio.siccha@rwth-aachen.de)
-* [Christoph Sch&ouml;nnenbeck](mailto:christoph.schoennenbeck@rwth-aachen.de)
+* [Sergio Siccha](mailto:sergio@mathb.rwth-aachen.de)
+  [(LBfM RWTH)](https://www.mathb.rwth-aachen.de/Mitarbeiter/siccha.php)
 
 ## Sponsors
 
-This workshop is supported by [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/).
+This summer school is supported by [DFG Graduiertenkolleg "Experimental and Constructive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/).

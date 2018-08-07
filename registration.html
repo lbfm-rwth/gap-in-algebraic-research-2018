@@ -14,10 +14,11 @@ email: sergio@mathb.rwth-aachen.de
 <p class="message">Registration is closed.</p>
 
 {% when 'open' %}
-<p class="message">Registration is open.</p>
+<p class="message">Registration is open until Oct 31.</p>
 
 <p>
-You can use this form to register for the workshop {{ site.title }}.
+You can use this form to register for the autumn school {{ site.title }}.
+Please note that you will have to cover for **your travel expenses yourselves**.
 </p>
 
 <p>
@@ -67,7 +68,8 @@ regarding registration or in general, feel free to
   <select name="programming.experience" id="programming_experience" required>
     <option value="none" selected="selected">No previous experience</option>
     <option value="basic">Basic programming experience</option>
-    <option value="confident">I'm confident writing small programs for my personal use</option>
+    <option value="personal">I'm confident writing small programs for my personal use</option>
+    <option value="confident">I write programs that are distributed to other users</option>
   </select>
 </div>
 
@@ -79,11 +81,11 @@ regarding registration or in general, feel free to
     Please select the day of arrival.
   </div>
   <select name="arrival.date" id="arrival_date" required>
-    <option value="Sunday 16 Sep" selected="selected">Sunday 16 Sep or before</option>
-    <option value="Monday 17 Sep">Monday 17 Sep</option>
-    <option value="Tuesday 18 Sep">Tuesday 18 Sep</option>
-    <option value="Wednesday 19 Sep">Wednesday 19 Sep</option>
-    <option value="Thursday 20 Sep">Thursday 20 Sep</option>
+    <option value="Sunday 18 Nov" selected="selected">Sunday 18 Nov</option>
+    <option value="Monday 19 Nov">Monday 19 Nov</option>
+    <option value="Tuesday 20 Nov">Tuesday 20 Nov</option>
+    <option value="Wednesday 21 Nov">Wednesday 21 Nov</option>
+    <option value="Thursday 22 Nov">Thursday 22 Nov</option>
   </select>
 </div>
 
@@ -95,11 +97,10 @@ regarding registration or in general, feel free to
     Please select the day of departure.
   </div>
   <select name="departure.date" id="departure_date" required>
-    <option value="Monday 17 Sep">Monday 17 Sep</option>
-    <option value="Tuesday 18 Sep">Tuesday 18 Sep</option>
-    <option value="Wednesday 19 Sep">Wednesday 19 Sep</option>
-    <option value="Thursday 20 Sep" selected="selected">Thursday 20 Sep</option>
-    <option value="Friday 21 Sep">Friday 21 Sep or later</option>
+    <option value="Monday 19 Nov">Monday 19 Nov</option>
+    <option value="Tuesday 20 Nov">Tuesday 20 Nov</option>
+    <option value="Wednesday 21 Nov">Wednesday 21 Nov</option>
+    <option value="Thursday 22 Nov" selected="selected">Thursday 22 Nov</option>
   </select>
 </div>
 
@@ -122,25 +123,11 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="presentation">Presentation</label>
-  </div>
-  <div class="form-field-description">
-    If you want to give a short presentation, please provide an abstract for your talk.
-    Talks should be 15 minutes long.
-    Make sure that you also describe your computational goals or problems.
-    If you want to give a presentation but are not yet certain about its content make a note
-    in the field below. In this case please provide us with an abstract by September 5.
-  </div>
-  <textarea name="presentation" rows="10" cols="60"></textarea>
-</div>
-
-<div class="form-field">
-  <div class="form-field-title">
     <label for="comments">Comments</label>
   </div>
   <div class="form-field-description">
     This is the place for any comments, questions or wishes
-    you have regarding the workshop.
+    you have regarding the autumn school.
   </div>
   <textarea name="comments" rows="10" cols="60"></textarea>
 </div>
