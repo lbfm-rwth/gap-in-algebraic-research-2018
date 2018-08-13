@@ -23,7 +23,7 @@ The speakers are:
   Connecting and (De)composing Groups"
 - Alexander Konovalov (St. Andrews), "Programming with GAP (A GAP Tutorial)"
 - Sebastian Posur (Siegen), "The CAP Project: Category Theory in Computer Algebra"
-- Madeleine Whybrow (Kaiserslautern), TBA
+- Madeleine Whybrow (Kaiserslautern), "Majorana and axial algebras in GAP"
 - Wilf Wilson (Halle), "Computing with semigroups in GAP"
 
 
