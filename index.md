@@ -28,9 +28,14 @@ The speakers are:
 
 
 To register for the workshop visit [the registration page]({{ site.baseurl }}/registration).
-Funding is available to pay for your accomodation. You may be asked to share a room with
+Funding is available to pay for your accomodation. You will be asked to share a room with
 another participant.
 Note that you will have to cover for **your travel expenses yourselves**.
+
+Please bring a laptop with a working installation of GAP 4.9.0
+_or a later version_, preferably running on a linux or mac operating system.
+If you have problems with installing GAP we can try to
+resolve them in Aachen, if time permits.
 
 More detailed information will be announced on [the program page]({{ site.baseurl }}/program).
 
