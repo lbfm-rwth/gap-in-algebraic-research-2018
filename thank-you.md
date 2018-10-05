@@ -3,8 +3,7 @@ layout: default
 ---
 
 <p class="message">
-  Thank you for registering!
-  Please note that you have to cover for **your travel expenses yourselves**.
+  Thank you for registering! You should get an email soon.
 </p>
 
 [Back to start]({{ site.baseurl }}/)
