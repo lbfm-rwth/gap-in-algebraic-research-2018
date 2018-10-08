@@ -1,68 +1,54 @@
-- name: Jan de Beule
-  affiliation: Vrije Universiteit Brussel
-- name: Alexander Hulpke
-  affiliation: Colorado State University
-- name: Alexander Konovalov
-  affiliation: University of St Andrews
-- name: Sebastian Posur
-  affiliation: Universität Siegen
-- name: Wilf Wilson
-  affiliation: Martin-Luther-Universität Halle-Wittenberg
-- name: Madeleine Whybrow
-  affiliation: Technische Universität Kaiserslautern
-
-- name: Christoph Schönnenbeck
-  affiliation: RWTH Aachen University
-- name: Dirk Liebhold
-  affiliation: RWTH Aachen University
-- name: Dominik Bernhardt
-  affiliation: RWTH Aachen University
-- name: Laura Maaßen
-  affiliation: RWTH Aachen University
-- name: Markus Baumeister
-  affiliation: RWTH Aachen University
-- name: Sergio Siccha
-  affiliation: RWTH Aachen University
-- name: Simon Eisenbarth
-  affiliation: RWTH Aachen University
-- name: Achim Burtscheidt
-  affiliation: RWTH Aachen University
-- name: Annalena Wernz
-  affiliation: RWTH Aachen University
-- name: Narjes Rashidi
-  affiliation: RWTH Aachen University
-- name: Niclas Kruff
-  affiliation: RWTH Aachen University
-- name: Rene Koch
-  affiliation: RWTH Aachen University
-
-- name: Àngel García Blàzquez
-  affiliation: Universidad de Murcia
-- name: Cesare Giulio Ardito
-  affiliation: University of Manchester
-- name: Daniel Hawtin
-  affiliation: Memorial University of Newfoundland
-- name: Farideh Shafiei
-  affiliation: Institute for Research in Fundamental Sciences (IPM)
-- name: Farrokh Shirjian
-  affiliation: Tarbiat Modares University
-- name: Jozefien D'haeseleer
-  affiliation: Ghent University
-- name: Lins Denaux
-  affiliation: Ghent University
-- name: Lisa Hernandez Lucas
-  affiliation: Vrije Universiteit Brussel
-- name: Melissa Lee
-  affiliation: Imperial College London
-- name: Milad Ahanjideh
-  affiliation: University of Shahrekord
-- name: Olayiwola Abdulhakeem
-  affiliation: Sule Lamido University
-- name: Surinder Kaur
-  affiliation: Indian Institute of Technology Ropar
-- name: Vasyl Laver
-  affiliation: Uzhhorod National University
-- name: Vladimir Bozovic
-  affiliation: University of Montenegro
-- name: Yasir Kızmaz
-  affiliation: Middle East Technical University
+- name:	Àngel García Blàzquez
+  affiliation:	Universidad de Murcia
+- name:	Aslam Ali
+  affiliation:	TU Kaiserslautern
+- name:	Cesare Giulio Ardito
+  affiliation:	University of Manchester
+- name:	Christoph Schönnenbeck
+  affiliation:	RWTH Aachen University
+- name:	Daniel Hawtin
+  affiliation:	Memorial University of Newfoundland
+- name:	Deepshikha Chatterjee
+  affiliation:	Ambedkar University
+- name:	Dominik Bernhardt
+  affiliation:	RWTH Aachen University
+- name:	Farideh Shafiei
+  affiliation:	Institute for Research in Fundamental Sciences (IPM)
+- name:	Farrokh Shirjian
+  affiliation:	Tarbiat Modares University
+- name:	Jozefien D'haeseleer
+  affiliation:	Ghent University
+- name:	Kaashif Hymabaccus
+  affiliation:	University of Oxford
+- name:	Kunda Kambaso
+  affiliation:	RWTH Aachen University
+- name:	Laura Maaßen
+  affiliation:	RWTH Aachen University
+- name:	Liana Khazaliya
+  affiliation:	Belarusian State University
+- name:	Lins Denaux
+  affiliation:	Ghent University
+- name:	Lisa Hernandez Lucas
+  affiliation:	Vrije Universiteit Brussel
+- name:	Markus Baumeister
+  affiliation:	RWTH Aachen University
+- name:	Moritz Lichter
+  affiliation:	TU Kaiserslautern
+- name:	Narjes Rashidi
+  affiliation:	RWTH Aachen University
+- name:	Niclas Kruff
+  affiliation:	RWTH Aachen University
+- name:	Sergio Siccha
+  affiliation:	RWTH Aachen University
+- name:	Sogo Pierre Sanon
+  affiliation:	TU Kaiserslautern
+- name:	Surinder Kaur
+  affiliation:	Indian Institute of Technology Ropar
+- name:	Torben Wiedemann
+  affiliation:	Justus-Liebig-Universität Gießen
+- name:	Vasyl Laver
+  affiliation:	Uzhhorod National University
+- name:	Vladimir Bozovic
+  affiliation:	University of Montenegro
+- name:	Yasir Kızmaz
+  affiliation:	Middle East Technical University

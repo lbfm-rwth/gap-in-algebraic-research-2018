@@ -4,7 +4,24 @@ title: Participants
 ---
 
 <!--[![Group photo]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall_thumb.jpg "Group photo")]({{ site.baseurl }}/photos/groupphoto-gapdays2017-fall.jpg)-->
+<h2>Speakers</h2>
+<ol>
+{% for p in site.data.speakers %}
+  <li>
+    <strong>{{ p.name }}</strong>
+    {% if p.affiliation != null %} ({{ p.affiliation }}){% endif %}
+    {% if p.links != null %}
+        {% for item in p.links %}
+            <a href="{{ item[1] }}">({{ item[0] }})</a>
+        {% endfor %}
+    {% endif %}
+    <br/>
+      {% if p.talk != null %} Talk: {{ p.talk }}{% endif %}
+  </li>
+{% endfor %}
+</ol>
 
+<h2>Participants</h2>
 <ol>
 {% for p in site.data.participants %}
   <li>
