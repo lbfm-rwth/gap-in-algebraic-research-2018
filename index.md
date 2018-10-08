@@ -32,8 +32,8 @@ Funding is available to pay for your accomodation. You will be asked to share a 
 another participant.
 Note that you will have to cover for **your travel expenses yourselves**.
 
-Please bring a laptop with a working installation of GAP 4.9.0
-_or a later version_, preferably running on a linux or mac operating system.
+Please bring a laptop with a working installation of a GAP 4.9.x
+version, preferably running on a linux or mac operating system.
 If you have problems with installing GAP we can try to
 resolve them in Aachen, if time permits.
 

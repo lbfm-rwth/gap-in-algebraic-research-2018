@@ -58,12 +58,12 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="affiliation">Affiliation</label>
+    <label for="affiliation">Affiliation<span class="form-field-req">*</span></label>
   </div>
   <div class="form-field-description">
     Please enter the name of your home university, institute etc., if any. 
   </div>
-  <input type="text" size="60" maxlength="80" name="affiliation" />
+  <input type="text" size="60" maxlength="80" name="affiliation" required />
 </div>
 
 <div class="form-field">
@@ -78,6 +78,17 @@ regarding registration or in general, feel free to
     <option value="basic">Basic programming experience</option>
     <option value="personal">I'm confident writing small programs for my personal use</option>
     <option value="confident">I write programs that are distributed to other users</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="gender">Gender<span class="form-field-req">*</span></label> 
+  </div>
+  <select name="gender" id="gender" required>
+    <option value="male" selected="selected">male</option>
+    <option value="female">female</option>
+    <option value="other">other</option>
   </select>
 </div>
 
