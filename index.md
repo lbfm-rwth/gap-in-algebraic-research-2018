@@ -21,7 +21,7 @@ The speakers are:
 - Jan de Beule (Brussels), "Finite Geometry in GAP"
 - Alexander Hulpke (Fort Collins), "Group Homomorphisms in GAP:
   Connecting and (De)composing Groups"
-- Alexander Konovalov (St. Andrews), "Programming with GAP (A GAP Tutorial)"
+- Alexander Konovalov (St Andrews), "Programming with GAP (A GAP Tutorial)"
 - Sebastian Posur (Siegen), "The CAP Project: Category Theory in Computer Algebra"
 - Madeleine Whybrow (Kaiserslautern), "Majorana and axial algebras in GAP"
 - Wilf Wilson (Halle), "Computing with semigroups in GAP"
