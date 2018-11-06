@@ -42,7 +42,7 @@ More detailed information will be announced on [the program page]({{ site.baseur
 ## Location
 
 The workshop will take place at the {{ site.location }}. Information about the
-exact location and accommodation will be announced on [the location page]({{ site.baseurl }}/location).
+exact location will also be announced on [the program page]({{ site.baseurl }}/program).
 
 ## Contact
 
