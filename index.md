@@ -14,8 +14,8 @@ investigate these areas   computationally,  and   guide   participants  to   fam
 with  these tools  during the accompanying  programming lab sessions.
 We aim to do 2 hours of programming lab session for each 1.5 hours of lecture time.
 No prior computational experience is needed.
-Alexander Konovalov will give a GAP tutorial at the beginning of the summer school.
-
+At the beginning of the school, Alexander Konovalov will give a GAP tutorial which will be
+based on the [Software Carpentry lesson "Programming with GAP"](https://github.com/alex-konovalov/gap-lesson).
 
 The speakers are:
 - Jan de Beule (Brussels), "Finite Geometry in GAP"
