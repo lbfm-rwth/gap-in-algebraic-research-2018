@@ -8,7 +8,11 @@ title: Program
 - Start: Monday November 19, 10:00
 - Finish: Thursday November 22, 14:00
 
-A detailed schedule will be announced shortly before the summer school.
+A
+[preliminary timetable]({{ site.baseurl }}/timetable-gap-summerschool-2018.pdf)
+is now online.
+
+A program with descriptions on how to get to the class rooms will be uploaded shortly before the school.
 
 <!--
 FIXME: also list session by thomas
