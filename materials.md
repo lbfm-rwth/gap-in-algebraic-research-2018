@@ -8,3 +8,8 @@ We will use the framapad
 to share links, snippets of code and to chat.
 
 Slides and exercise materials will be uploaded here during the school.
+
+<!--
+Example how to link to a file that was put into the materials/ folder:
+[file]({{ site.baseurl }}/materials/filename)
+-->
