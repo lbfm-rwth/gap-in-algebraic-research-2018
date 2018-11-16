@@ -9,10 +9,10 @@ title: Program
 - Finish: Thursday November 22, 14:00
 
 A
-[preliminary timetable]({{ site.baseurl }}/timetable-gap-summerschool-2018.pdf)
-is now online.
-
-A program with descriptions on how to get to the class rooms will be uploaded shortly before the school.
+[timetable]({{ site.baseurl }}/timetable-gap-summerschool-2018.pdf)
+and a
+[program]({{ site.baseurl }}/Autumn-School-2018_-_GAP-in-Algebraic-Research.pdf)
+are now online.
 
 <!--
 FIXME: also list session by thomas
