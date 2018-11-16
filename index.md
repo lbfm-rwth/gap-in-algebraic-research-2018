@@ -24,7 +24,7 @@ The speakers are:
 - Alexander Konovalov (St Andrews), "Programming with GAP (A GAP Tutorial)"
 - Sebastian Posur (Siegen), "The CAP Project: Category Theory in Computer Algebra"
 - Madeleine Whybrow (Kaiserslautern), "Majorana and axial algebras in GAP"
-- Wilf Wilson (Halle), "Computing with semigroups in GAP"
+- Wilfred Wilson (Halle), "Computing with semigroups in GAP"
 
 
 To register for the workshop visit [the registration page]({{ site.baseurl }}/registration).
