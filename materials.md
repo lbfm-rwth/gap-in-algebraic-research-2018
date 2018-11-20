@@ -33,6 +33,18 @@ then you can have a look at these additional problems:
 The MajoranaAlgebras package webpage can be found here:
 [https://mwhybrow92.github.io/MajoranaAlgebras/](https://mwhybrow92.github.io/MajoranaAlgebras/)
 
+## Group Homomorphisms in GAP - Alexander Hulpke
+- [Slides]({{ site.baseurl }}/materials/HulpkeSlides.pdf)
+- [Exercises]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
+<!--
+- [Solutions]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
+
+## Finite Geometry in GAP - Jan de Beule
+- [Slides]({{ site.baseurl }}/materials/HulpkeSlides.pdf)
+- [Exercises]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
+<!--
+
+
 <!--
 Example how to link to a file that was put into the materials/ folder:
 [file]({{ site.baseurl }}/materials/filename)
