@@ -10,7 +10,9 @@ to share links, snippets of code and to chat.
 Slides and exercise materials will be uploaded here during the school.
 
 ## The CAP Project - Sebastian Posur
-[Slides]({{ site.baseurl }}/materials/)  <!-- Add the link to your file here 
+[Slides]({{ site.baseurl }}/materials/CAP-slides.pdf)
+<!--
+Add the link to your file here 
 -->
 and
 [Exercises]({{ site.baseurl }}/materials/).
