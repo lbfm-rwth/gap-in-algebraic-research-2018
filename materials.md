@@ -30,7 +30,8 @@ If you are feeling confident and have completed the problem sheet (or as much of
 then you can have a look at these additional problems:
 [extension]({{ site.baseurl }}/materials/Majorana-and-axial-algebras_Extension.pdf).
 
-The MajoranaAlgebras package webpage can be found here: https://mwhybrow92.github.io/MajoranaAlgebras/.
+The MajoranaAlgebras package webpage can be found here:
+[https://mwhybrow92.github.io/MajoranaAlgebras/](https://mwhybrow92.github.io/MajoranaAlgebras/)
 
 <!--
 Example how to link to a file that was put into the materials/ folder:
