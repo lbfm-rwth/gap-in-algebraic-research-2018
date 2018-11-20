@@ -19,7 +19,7 @@ with exercises that don't use Singular.
 - As a [jupyter notebook](https://github.com/homalg-project/capdays-2018/blob/gh-pages/materials/Abelian%20Categories.ipynb)
 with exercises that do use Singular. You need to have Singular installed.
 
-## Majorana Algebras - Madeleine Whybrow
+## Majorana and Axial Algebras - Madeleine Whybrow
 
 Here are the slides:
 [slides]({{ site.baseurl }}/materials/Majorana-and-axial-algebras_Slides.pdf).
