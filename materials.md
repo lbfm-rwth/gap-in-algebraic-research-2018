@@ -9,6 +9,14 @@ to share links, snippets of code and to chat.
 
 Slides and exercise materials will be uploaded here during the school.
 
+## GAP Tutorial - Alexander Konovalov
+
+* [Sofware Carpentry lesson "Programming with GAP"](http://alex-konovalov.github.io/gap-lesson/)
+* Demonstration of capabilities of the GAP Jupyter interface:
+  - Try GAP in Jupyter [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
+  - GAP package Francy [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-packages/francy/master)
+  - GAP package JupyterViz [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nathancarter/jupyterviz/master?filepath=inst%2Fgap-4.9.3%2Fpkg%2Fjupyterviz%2Ftst%2Fin-notebook-test.ipynb)
+
 ## The CAP Project - Sebastian Posur
 [Slides]({{ site.baseurl }}/materials/CAP-slides.pdf).
 
