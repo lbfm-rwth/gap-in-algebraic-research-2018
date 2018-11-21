@@ -39,11 +39,11 @@ The MajoranaAlgebras package webpage can be found here:
 
 <!--
 - [Solutions]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
+-->
 
 ## Finite Geometry in GAP - Jan de Beule
-- [Slides]({{ site.baseurl }}/materials/HulpkeSlides.pdf)
-- [Exercises]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
--->
+- [Slides]({{ site.baseurl }}/materials/Finite-Geometry_slides.pdf)
+- [Exercises]({{ site.baseurl }}/materials/Finite-Geometry_exercises.pdf)
 
 
 <!--
