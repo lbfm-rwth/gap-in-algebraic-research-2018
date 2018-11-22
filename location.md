@@ -6,7 +6,7 @@ title: Location
 The summer school "GAP in Algebraic Research" will take place at RWTH Aachen University.
 For the specific rooms we will use see the 
 [the program page]({{ site.baseurl }}/program).
-
+ghjghjgkhj
 <h3>Accommodation</h3>
 
 All participants will be accomodated in
