@@ -49,7 +49,10 @@ The MajoranaAlgebras package webpage can be found here:
 
 ## Finite Geometry in GAP - Jan de Beule
 - [Slides]({{ site.baseurl }}/materials/Finite-Geometry_slides.pdf)
+- [Small demo files]({{ site.baseurl }}/materials/Finite-Geometry_demos.zip)
 - [Exercises]({{ site.baseurl }}/materials/Finite-Geometry_exercises.pdf)
+- [Solutions for the exercises]({{ site.baseurl }}/materials/Finite-Geometry_exercises_solutions.pdf)
+- [Solutions for the exercises (all steps to be executed in GAP)]({{ site.baseurl }}/materials/Finite-Geometry_exercises_solutions.zip)
 
 ## Semigroups in GAP - Wilf Wilson
 
