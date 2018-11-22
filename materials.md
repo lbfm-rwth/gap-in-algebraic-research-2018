@@ -45,10 +45,7 @@ The MajoranaAlgebras package webpage can be found here:
 ## Group Homomorphisms in GAP - Alexander Hulpke
 - [Slides]({{ site.baseurl }}/materials/HulpkeSlides.pdf)
 - [Exercises]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
-
-<!--
-- [Solutions]({{ site.baseurl }}/materials/WorksheetHulpkeProblems.pdf)
--->
+- [Solutions]({{ site.baseurl }}/materials/WorksheetHulpkeSolutions.pdf)
 
 ## Finite Geometry in GAP - Jan de Beule
 - [Slides]({{ site.baseurl }}/materials/Finite-Geometry_slides.pdf)
