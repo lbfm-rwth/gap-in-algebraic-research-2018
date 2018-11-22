@@ -53,6 +53,11 @@ The MajoranaAlgebras package webpage can be found here:
 - [Slides]({{ site.baseurl }}/materials/Finite-Geometry_slides.pdf)
 - [Exercises]({{ site.baseurl }}/materials/Finite-Geometry_exercises.pdf)
 
+## Semigroups in GAP - Wilf Wilson
+
+- All of the materials are available in the GitHub repository: [wilfwilson/semigroups-in-algebraic-research](https://github.com/wilfwilson/semigroups-in-algebraic-research)
+- The Jupyter notebooks may be run interactively in Binder:
+[![(Link to launch Binder)](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wilfwilson/semigroups-in-algebraic-research/master)
 
 <!--
 Example how to link to a file that was put into the materials/ folder:
