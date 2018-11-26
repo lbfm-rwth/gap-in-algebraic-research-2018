@@ -1,0 +1,134 @@
+---
+layout: page
+title: Feedback
+form_api_token: 09e3a36d99658971738d37981b26b5ac
+email: sergio@mathb.rwth-aachen.de
+---
+
+<p>
+You can use this form to submit anonymous feedback for the autumn school.
+</p>
+
+<form action="http://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="concept">Concept</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the
+    concept of the school?
+  </div>
+  <textarea name="concept_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the
+    concept of the school?
+  </div>
+  <textarea name="concept_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="Organization">Organization</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the
+    organization?
+  </div>
+  <textarea name="organization_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the
+    organization?
+  </div>
+  <textarea name="organization_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="The CAP Project">The CAP Project - Sebastian Posur</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the session on
+    the CAP project?
+  </div>
+  <textarea name="CAP_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the session on
+    the CAP project?
+  </div>
+  <textarea name="CAP_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="Majorana Algebras">Majorana and Axial Algebras - Madeleine Whybrow</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the session on
+    Majorana and Axial Algebras?
+  </div>
+  <textarea name="Majorana_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the session on
+    Majorana and Axial Algebras?
+  </div>
+  <textarea name="Majorana_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="homs">Homomorphisms in GAP - Alexander Hulpke</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the session on
+homomorphisms in GAP?
+  </div>
+  <textarea name="homomorphisms_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the session on
+homomorphisms in GAP?
+  </div>
+  <textarea name="homomorphisms_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="Finite Geometry">Finite Geometry - Jan de Beule</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the session on
+    finite geometry?
+  </div>
+  <textarea name="fingeom_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the session on
+    finite geometry?
+  </div>
+  <textarea name="fingeom_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="semigroups">Semigroups - Wilfred Wilson</label>
+  </div>
+  <div class="form-field-description">
+    What did you like about the session on
+    Semigroups?
+  </div>
+  <textarea name="semigroups_like" rows="5" cols = "50"></textarea>
+  <div class="form-field-description">
+    What could be improved about the session on
+    Semigroups?
+  </div>
+  <textarea name="semigroups_improvement" rows="5" cols = "50"></textarea>
+</div>
+
+
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
+
+<div class="form-field">
+  <input type="submit" value="Submit!" />
+</div>
+
+</form>

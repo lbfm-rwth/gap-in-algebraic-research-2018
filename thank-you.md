@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p class="message">
-  Thank you for registering! You should get an email soon.
+  Thank you for submitting your feedback!
 </p>
 
 [Back to start]({{ site.baseurl }}/)
